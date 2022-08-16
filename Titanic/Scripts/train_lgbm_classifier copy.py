@@ -9,10 +9,10 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
-TRAIN_DATA = "D:\\repos\\kaggle_fun\\Titanic\\ProcessedData\\train_data_simple2.csv"
-TEST_DATA =  "D:\\repos\\kaggle_fun\\Titanic\\ProcessedData\\test_data_simple2.csv"
+TRAIN_DATA = "C:\\repos\\kaggle_fun\\Titanic\\ProcessedData\\train_data_added_features_1.csv"
+TEST_DATA =  "C:\\repos\\kaggle_fun\\Titanic\\ProcessedData\\test_data_added_features_1.csv"
 
-SUBMISSION_OUT = "D:\\repos\\kaggle_fun\\Titanic\\Results\\lgbm_submission_1.csv"
+SUBMISSION_OUT = "C:\\repos\\kaggle_fun\\Titanic\\Results\\lgbm_submission_added_features_1.csv"
 
 if __name__ == "__main__":
 
